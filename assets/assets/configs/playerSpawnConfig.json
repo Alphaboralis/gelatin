@@ -1,0 +1,12 @@
+{
+  "Mothinator": {
+    "hull": "gelatin:Mothinator",
+    "items": "3*rep core:lightArmor-1 core:smallShield-1 core:blaster-1",
+    "money": 20
+  },
+  "Mothinator2.0": {
+    "hull": "gelatin:Mothinator2.0",
+    "items": "99*rep core:heavyArmor-1 core:advancedShield-1 gelatin:lighter-1 gelatin:lighter-2 99*gelatin:gelatinClip",
+    "money": 20
+  }
+}
